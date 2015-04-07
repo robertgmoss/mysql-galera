@@ -1,0 +1,2 @@
+[mysqld]
+wsrep_sst_auth=wsrep_sst-user:password
